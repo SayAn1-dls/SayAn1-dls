@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Sayan </h1>
 
 # 🚀About Me🚀:
+
+
  _**👨🏻‍💻I build cool stuff using "tech-stack"💻**_<br>_📥Reach me at : sayanbhatt2005@gmail.com_<br>**🔥Fun Fact: I Secretly code while sleeping😂** <br>
  <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -18,10 +20,12 @@
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100085051226980" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/_sayan.bhattacharya_/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SayAn1-dls&show_icons=true&locale=en" alt="SayAn1-dls" /></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlwNDdmdDB3dmNzdjgxcGFlNmVhdG85dGQ3aGx1cjY0OXcxeGw3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" width="300" align="right">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SayAn1-dls&" alt="SayAn1-dls" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayAn1-dls&show_icons=true&locale=en&layout=compact" alt="SayAn1-dls" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SayAn1-dls" alt="SayAn1-dls" /></a></p>
 <div align="center">
+ 
   <a href="https://github.com/pythonicforge">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake-dark.svg" />
