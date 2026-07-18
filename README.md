@@ -1,1 +1,124 @@
-IyA8cHJlIGFsaWduPSJjZW50ZXIiPjxpbWcgc3JjPSJodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9d2F2aW5nJmNvbG9yPWF1dG8maGVpZ2h0PTI1MCZzZWN0aW9uPWhlYWRlciZ0ZXh0PVNheWFuJTIwQmhhdHRhY2hhcnlhJmZvbnRTaXplPTcwJmFuaW1hdGlvbj1mYWRlSW4iIC8+PC9wcmU+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vU2F5QW4xLWRscyI+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9yZWFkbWUtdHlwaW5nLXN2Zy5oZXJva3VhcHAuY29tP2ZvbnQ9RmlyYStDb2RlJndlaWdodD02MDAmc2l6ZT0yOCZkdXJhdGlvbj0zMDAwJnBhdXNlPTEwMDAmY29sb3I9RjdERjFFJmNlbnRlcj10cnVlJnZDZW50ZXI9dHJ1ZSZ3aWR0aD02MDAmbGluZXM9RnVsbC1TdGFjaytBcmNoaXRlY3Q7RGVlcCtSZXNlYXJjaGVyO0RhdGErU2NpZW5jZStFbnRodXNpYXN0O0NyZWF0aXZlK1Byb2JsZW0rU29sdmVyO1ZpYmUrQ29kZXIr8J+agCIgYWx0PSJUeXBpbmcgU1ZHIiAvPgogIDwvYT4KPC9wPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL3NheWFuLWJoYXR0YWNoYXJ5YS1iNzg1MjkzMTgiPgogICAgPGltZyBzcmM =Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGlua2VkSW4tMDA3N0I1P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1saW5rZWRpbiZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPC9hPgogIDxhIGhyZWY9Imh0dHBzOi8veC5jb20vc2F5YW5fYW50b2dlbjAxIj4KICAgIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1R3aXR0ZXItMURBMUYyP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz10d2l0dGVyJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8L2E+CiAgPGEgaHJlZj0ibWFpbHRvOnNheWFuYmhhdHQyMDA1QGdtYWlsLmNvbSI+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9HbWFpbC1EMTQ4MzY/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdtYWlsJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8L2E+CjwvcD4KCi0tLQoKIyMg8J+RqOKAjfCfkrsgQWJvdXQgTWUKCjxkaXYgYWxpZ249ImNlbnRlciI+CgpgYGBqYXZhc2NyaXB0CmNvbnN0IHNheWFuID0gewogIHByb25vdW5zOiAiSGUgLyBIaW0iLAogIGNvZGU6IFsiSmF2YVNjcmlwdCIsICJQeXRob24iLCAiVHlwZVNjcmlwdCIsICJTUUwiXSwKICB0ZWNobm9sb2dpZXM6IHsKICAgIGZyb250ZW5kOiBbIlJlYWN0IiwgIlZpdGUiLCAiVGFpbHdpbmQiLCAiU2hhZGNuLVVJIl0sCiAgICBiYWNrZW5kOiBbIk5vZGUuanMiLCAiRXhwcmVzcyIsICJQcmlzbWEiLCAiU3VwYWJhc2UiXSwKICAgIGRhdGE6IFsiRGF0YSBTY2llbmNlIiwgIlJlc2VhcmNoIiwgIk1MIFZpc3VhbGl6YXRpb24iXQogIH0sCiAgY3VycmVudEZvY3VzOiAiQXJjaGl0ZWN0aW5nIG1hcmtldC1yZWFkeSBlLWNvbW1lcmNlIHNvbHV0aW9ucyIsCiAgcGhpbG9zb3BoeTogIkxvZ2ljICsgQ3JlYXRpdml0eSA9IE1hc3RlcnBpZWNlIgp9OwpgYGAKCjwvZGl2PgoKPiBJIGFtIGEgKipEZWVwIFJlc2VhcmNoZXIqKiBhbmQgKipGdWxsIFN0YWNrIERldmVsb3BlcioqIHdobyBwcmlvcml0aXplcyAqKmRlZGljYXRpb24gYW5kIHByb2plY3QgZGVwdGgqKiBvdmVyIHRyYWRpdGlvbmFsIG1ldHJpY3MuIEkgZG9uJ3QganVzdCB3cml0ZSBjb2RlOyBJIGVuZ2luZWVyIHNvbHV0aW9ucyB0aGF0IHNvbHZlIHJlYWwtd29ybGQgbWFya2V0IGdhcHMuIFJlY2VudGx5IGJ1aWx0IGEgIkx1eHVyeSBWaXJ0dWFsIFRyeS1PbiIgZS1jb21tZXJjZSBlbmdpbmUgZm9yIFNhcmVlIEFydGlzdHJ5 LegoKLS0tCgojIyDwn5ug77iPIFRlY2ggU3RhY2sgJiBFY29zeXN0ZW0KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3JlYWN0LSUyMzIwMjMyYS5zdmc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXJlYWN0JmxvZ29Db2xvcj0lMjM2MURBRkIiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvdHlwZXNjcmlwdC0lMjMwMDdBQ0Muc3ZnP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz10eXBlc2NyaXB0JmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9weXRob24tMzY3MEEwP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1weXRob24mbG9nb0NvbG9yPWZmZGQ1NCIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9ub2RlLmpzLTZEQTU1Rj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bm9kZS5qcyZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvdGFpbHdpbmRjc3MtJTIzMzhCMkFDLnN2Zz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dGFpbHdpbmQtY3NzJmxvZ29Db2xvcj13aGl0ZSIgLz4KPC9wPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvU3VwYWJhc2UtM0NDRjc4P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1zdXBhYmFzZSZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUmF6b3JwYXktMEI5MkU3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1yYXpvcnBheSZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHJpc21hLTM5ODJDRT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289UHJpc21hJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9naXQtJTIzRjA1MDMzLnN2Zz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0JmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9WZXJjZWwtMDAwMDAwP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz12ZXJjZWwmbG9nb0NvbG9yPXdoaXRlIiAvPgo8L3A+CgotLS0KCiMjIPCfk4ogTXkgRGlnaXRhbCBGb290cHJpbnQKCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9U2F5QW4xLWRscyZzaG93X2ljb25zPXRydWUmdGhlbWU9cmFkaWNhbCZoaWRlX2JvcmRlcj10cnVlJmluY2x1ZGVfYWxsX2NvbW1pdHM9dHJ1ZSZjb3VudF9wcml2YXRlPXRydWUiIGFsdD0iU2F5YW4ncyBTdGF0cyIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0cmVhay1zdGF0cy5oZXJva3VhcHAuY29tLz91c2VyPVNheUFuMS1kbHMmdGhlbWU9cmFkaWNhbCZoaWRlX2JvcmRlcj10cnVlIiBhbHQ9IlNheWFuJ3MgU3RyZWFrIiAvPgo8L3A+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncz91c2VybmFtZT1TYXlBbjEtZGxzJnNob3dfaWNvbnM9dHJ1ZSZsb2NhbGU9ZW4mbGF5b3V0PWNvbXBhY3QmdGhlbWU9cmFkaWNhbCZoaWRlX2JvcmRlcj10cnVlIiBhbHQ9IlRvcCBMYW5ndWFnZXMiIC8+CjwvcD4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtYWN0aXZpdHktZ3JhcGgudmVyY2VsLmFwcC9ncmFwaD91c2VybmFtZT1TYXlBbjEtZGxzJnRoZW1lPXJlYWN0LWRhcmsmYmdfY29sb3I9MEQxMTE3JmNvbG9yPUY3REYxRSZsaW5lPUY3REYxRSZwb2ludD1GRkZGRkYmaGlkZV9ib3JkZXI9dHJ1ZSIgYWx0PSJBY3Rpdml0eSBHcmFwaCIgLz4KPC9wPgoKLS0tCgojIyDwn5CNIENvbnRyaWJ1dGlvbiBBcnQKCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vU2F5QW4xLWRscy9TYXlBbjEtZGxzL291dHB1dC9naXRodWItY29udHJpYnV0aW9uLWdyaWQtc25ha2UtZGFyay5zdmciIGFsdD0iU25ha2UgQW5pbWF0aW9uIiAvPgo8L3A+CgotLS0KCiMjIPCfjq8gQWN0aXZlIFByb2plY3RzICYgR29hbHMKCi0g8J+bje+4jyAqKltCaW1hbGEgU2FyZWUgQXJ0aXN0cnldKGh0dHBzOi8vZ2l0aHViLmNvbS9TYXlBbjEtZGxzL2JpbWFsYV9zYXJlZV9mcm9udGVuZCkqKjogQSBwcmVtaXVtIGUtY29tbWVyY2Ugd2Vic2l0ZSB3aXRoIFZpcnR1YWwgVHJ5LU9uIGFuZCBSYXpvcnBheS4KLSDwn5SNICoqSHVtYW5TaWduYWwgKFdJUCkqKjogQnVpbGRpbmcgYW4gQUktZHJpdmVuICJHaG9zdC1Xb3JrZXIiIGRldGVjdGlvbiBlbmdpbmUgdG8gdmVyaWZ5IGRldmVsb3BlciB0cnVzdC4KLSDwn5OIICoqR29hbCoqOiBNb3ZpbmcgdG8gQmFuZ2Fsb3JlIHRvIGpvaW4gYSBoaWdoLWdyb3d0aCBzdGFydHVwIHRoYXQgdmFsdWVzIHNraWxsIGFuZCByZXNlYXJjaC4KLSDwn6SdICoqQ29sbGFib3JhdGlvbioqOiBPcGVuIHRvIGNvbnN1bHRpbmcgb24gZGVlcCByZXNlYXJjaCBhbmQgZnVsbC1zdGFjayBhcmNoaXRlY3R1cmUuCgotLS0KCiMjIPCfjJ8gQ29ubmVjdCAmIE5ldHdvcmsKCjxwIGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9zYXlhbi1iaGF0dGFjaGFyeWEtYjc4NTI5MzE4Ij4KICAgIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1MaW5rZWRJbi0wMDc3QjU/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1MaW5rZWRpbiZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPC9hPgogIDxhIGhyZWY9Imh0dHBzOi8veC5jb20vc2F5YW5fYW50b2dlbjAxIj4KICAgIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1Ud2l0dGVyLTFEQTFGMj9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPVR3aXR0ZXImbG9nb0NvbG9yPXdoaXRlIiAvPgogIDwvYT4KICA8YSBocmVmPSJodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL19zYXlhbi5iaGF0dGFjaGFyeWFfIj4KICAgIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1JbnN0YWdyYW0tRTQ0MDVGP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289SW5zdGFncmFtJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8L2E+CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlLzFCaWVZTWV3RzYvIj4KICAgIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1GYWNlYm9vay0xODc3RjI/c3R5bGU9ZmZsYXQtc3F1YXJlJmxvZ289RmFjZWJvb2smbG9nb0NvbG9yPXdoaXRlIiAvPgogIDwvYT4KPC9wPgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9wcm9maWxlLWNvdW50ZXIuZ2xpdGNoLm1lL1NheUFuMS1kbHMvY291bnQuc3ZnIiBhbHQ9IlZpc2l0b3IgQ291bnQiIC8+CjwvcD4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9d2F2aW5nJmNvbG9yPWF1dG8maGVpZ2h0PTEwMCZzZWN0aW9uPWZvb3RlciIgLz4KPC9wPg==
+# <pre align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sayan%20Bhattacharya&fontSize=70&animation=fadeIn" /></pre>
+
+<p align="center">
+  <a href="https://github.com/SayAn1-dls">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;Deep+Researcher;Data+Science+Enthusiast;Creative+Problem+Solver;Vibe+Coder+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayan-bhattacharya-b78529318">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/sayan_antogen01">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:sayanbhatt2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+<div align="center">
+
+```javascript
+const sayan = {
+  pronouns: "He / Him",
+  code: ["JavaScript", "Python", "TypeScript", "SQL"],
+  technologies: {
+    frontend: ["React", "Vite", "Tailwind", "Shadcn-UI"],
+    backend: ["Node.js", "Express", "Prisma", "Supabase"],
+    data: ["Data Science", "Research", "ML Visualization"]
+  },
+  currentFocus: "Architecting market-ready e-commerce solutions",
+  philosophy: "Logic + Creativity = Masterpiece"
+};
+```
+
+</div>
+
+> I am a **Deep Researcher** and **Full Stack Developer** who prioritizes **dedication and project depth** over traditional metrics. I don't just write code; I engineer solutions that solve real-world market gaps. Recently built a "Luxury Virtual Try-On" e-commerce engine for Saree Artistry.
+
+---
+
+## 🛠️ Tech Stack & Ecosystem
+
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3CCF78?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-0B92E7?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## 📊 My Digital Footprint
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SayAn1-dls&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sayan's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayAn1-dls&theme=radical&hide_border=true" alt="Sayan's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayAn1-dls&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayAn1-dls&theme=react-dark&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Art
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SayAn1-dls/SayAn1-dls/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 🎯 Active Projects & Goals
+
+- 🛒 **[Bimala Saree Artistry](https://github.com/SayAn1-dls/bimala_saree_frontend)**: A premium e-commerce website with Virtual Try-On and Razorpay.
+- 🔍 **HumanSignal (WIP)**: Building an AI-driven "Ghost-Worker" detection engine to verify developer trust.
+- 📈 **Goal**: Moving to Bangalore to join a high-growth startup that values skill and research.
+- 🤝 **Collaboration**: Open to consulting on deep research and full-stack architecture.
+
+---
+
+## 🌟 Connect & Network
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayan-bhattacharya-b78529318">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/sayan_antogen01">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_sayan.bhattacharya_">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1BieYMewG6/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/SayAn1-dls/count.svg" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
