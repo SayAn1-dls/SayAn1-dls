@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMmhueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
 ---
@@ -38,16 +38,16 @@ const sayan = {
 
 </div>
 
-> **"Talk is cheap. Show me the code."** — *Linus Torvalds*
+> **"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."** — *Linus Torvalds*
 > 
-> I don't just build apps; I architect systems. My approach is rooted in **deep research** and **technical precision**. I solve the problems others haven't even identified yet.
+> I don't just write code; I architect systems. My approach is rooted in **deep research** and **technical precision**. I solve the problems others haven't even identified yet.
 
 ---
 
 ## 🚀 Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,py,nodejs,tailwind,nextjs,supabase,prisma,git,vercel,aws,docker,mongodb,postgres,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,py,nodejs,tailwind,nextjs,supabase,prisma,git,vercel,aws,docker,mongodb,postgres,figma&perline=8" />
 </p>
 
 ---
@@ -55,12 +55,12 @@ const sayan = {
 ## 📈 Real-Time Performance (Goated Data)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayAn1-dls&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sayan's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayAn1-dls&theme=radical&hide_border=true&count_private=true" alt="Sayan's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SayAn1-dls&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1" alt="Sayan's Stats" />
+  <img src="https://streak-stats.demolab.com?user=SayAn1-dls&theme=radical&hide_border=true&count_private=true&cache_seconds=1" alt="Sayan's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayAn1-dls&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayAn1-dls&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -73,12 +73,12 @@ const sayan = {
 
 ---
 
-## 💎 Contribution Badges
+## 💎 Contribution & Social Status
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/SayAn1-dls?style=social" />
-  <img src="https://img.shields.io/github/forks/SayAn1-dls?style=social" />
-  <img src="https://img.shields.io/github/followers/SayAn1-dls?style=social" />
+  <img src="https://img.shields.io/github/stars/SayAn1-dls?style=for-the-badge&logo=github&color=F7DF1E&logoColor=black" />
+  <img src="https://img.shields.io/github/forks/SayAn1-dls?style=for-the-badge&logo=github&color=F7DF1E&logoColor=black" />
+  <img src="https://img.shields.io/github/followers/SayAn1-dls?style=for-the-badge&logo=github&color=F7DF1E&logoColor=black" />
 </p>
 
 ---
