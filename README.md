@@ -5,19 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sayan-bhattacharya-b78529318">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/sayan_antogen01">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:sayanbhatt2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/sayan-bhattacharya-b78529318"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/sayan_antogen01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_sayan.bhattacharya_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1BieYMewG6/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Marcos_sayan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:sayanbhatt2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMmhueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZkMmhueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
 </p>
 
 ---
@@ -29,25 +26,24 @@
 ```javascript
 const sayan = {
   persona: "The Deep Researcher",
-  motto: "Why settle for 'working' when it can be 'perfect'?",
-  stack: ["TS", "PY", "JS", "SQL"],
-  status: "Engineering master-level digital experiences",
-  vibe: "Research-driven, Skill-first, Zero bullshit."
+  mission: "Transforming logic into digital masterpieces",
+  status: "Engineering at a master-level with technical precision",
+  vibe: "Research-driven, Skill-first, Zero average work."
 };
 ```
 
 </div>
 
-> **"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."** — *Linus Torvalds*
+> **"Code is like humor. When you have to explain it, it’s bad."** — *Cory House*
 > 
-> I don't just write code; I architect systems. My approach is rooted in **deep research** and **technical precision**. I solve the problems others haven't even identified yet.
+> I don’t just write code; I architect systems. My approach is rooted in **technical depth** and **creative precision**. I identify gaps and engineer the bridge.
 
 ---
 
 ## 🚀 Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,py,nodejs,tailwind,nextjs,supabase,prisma,git,vercel,aws,docker,mongodb,postgres,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,ts,py,nodejs,tailwind,nextjs,supabase,prisma,git,vercel,aws,docker,mongodb,postgres,figma,postman,linux&perline=8" />
 </p>
 
 ---
@@ -68,12 +64,12 @@ const sayan = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayAn1-dls&theme=react-dark&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayAn1-dls&theme=radical&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 💎 Contribution & Social Status
+## 💎 Contribution Status
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/SayAn1-dls?style=for-the-badge&logo=github&color=F7DF1E&logoColor=black" />
@@ -83,16 +79,8 @@ const sayan = {
 
 ---
 
-## 🎯 What Drives Me?
-
-- 🧠 **Research Obsessed**: Digging deeper into every library and API until I know how it breathes.
-- 🏎️ **Performance First**: If it's not fast, it's broken.
-- 🎨 **Aesthetic Logic**: Code should be as beautiful to read as the UI is to use.
-
----
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20logic%20made%20aesthetic.&author=Jarvis" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Logic+is+the+foundation,+Creativity+is+the+masterpiece.&author=Jarvis" />
 </p>
 
 <p align="center">
