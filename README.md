@@ -1,9 +1,7 @@
 # <pre align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sayan%20Bhattacharya&fontSize=70&animation=fadeIn" /></pre>
 
 <p align="center">
-  <a href="https://github.com/SayAn1-dls">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;Deep+Researcher;Data+Science+Enthusiast;Creative+Problem+Solver;Vibe+Coder+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;Deep+Researcher;Data+Science+Enthusiast;Creative+Problem+Solver;Vibe+Coder+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,107 +16,89 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+</p>
+
 ---
 
-## 👨‍💻 About Me
+## ⚡ Quick Bio
 
 <div align="center">
 
 ```javascript
 const sayan = {
-  pronouns: "He / Him",
-  code: ["JavaScript", "Python", "TypeScript", "SQL"],
-  technologies: {
-    frontend: ["React", "Vite", "Tailwind", "Shadcn-UI"],
-    backend: ["Node.js", "Express", "Prisma", "Supabase"],
-    data: ["Data Science", "Research", "ML Visualization"]
-  },
-  currentFocus: "Architecting market-ready e-commerce solutions",
-  philosophy: "Logic + Creativity = Masterpiece"
+  persona: "The Deep Researcher",
+  motto: "Why settle for 'working' when it can be 'perfect'?",
+  stack: ["TS", "PY", "JS", "SQL"],
+  status: "Engineering master-level digital experiences",
+  vibe: "Research-driven, Skill-first, Zero bullshit."
 };
 ```
 
 </div>
 
-> I am a **Deep Researcher** and **Full Stack Developer** who prioritizes **dedication and project depth** over traditional metrics. I don't just write code; I engineer solutions that solve real-world market gaps. Recently built a "Luxury Virtual Try-On" e-commerce engine for Saree Artistry.
+> **"Talk is cheap. Show me the code."** — *Linus Torvalds*
+> 
+> I don't just build apps; I architect systems. My approach is rooted in **deep research** and **technical precision**. I solve the problems others haven't even identified yet.
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🚀 Technical Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Supabase-3CCF78?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-0B92E7?style=for-the-badge&logo=razorpay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,ts,py,nodejs,tailwind,nextjs,supabase,prisma,git,vercel,aws,docker,mongodb,postgres,figma" />
 </p>
 
 ---
 
-## 📊 My Digital Footprint
+## 📈 Real-Time Performance (Goated Data)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayAn1-dls&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sayan's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayAn1-dls&theme=radical&hide_border=true" alt="Sayan's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayAn1-dls&theme=radical&hide_border=true&count_private=true" alt="Sayan's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayAn1-dls&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayAn1-dls&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayAn1-dls&theme=react-dark&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SayAn1-dls&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </p>
 
----
-
-## 🐍 Contribution Art
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SayAn1-dls/SayAn1-dls/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayAn1-dls&theme=react-dark&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🎯 Active Projects & Goals
+## 💎 Contribution Badges
 
-- 🛒 **[Bimala Saree Artistry](https://github.com/SayAn1-dls/bimala_saree_frontend)**: A premium e-commerce website with Virtual Try-On and Razorpay.
-- 🔍 **HumanSignal (WIP)**: Building an AI-driven "Ghost-Worker" detection engine to verify developer trust.
-- 📈 **Goal**: Moving to Bangalore to join a high-growth startup that values skill and research.
-- 🤝 **Collaboration**: Open to consulting on deep research and full-stack architecture.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/SayAn1-dls?style=social" />
+  <img src="https://img.shields.io/github/forks/SayAn1-dls?style=social" />
+  <img src="https://img.shields.io/github/followers/SayAn1-dls?style=social" />
+</p>
 
 ---
 
-## 🌟 Connect & Network
+## 🎯 What Drives Me?
+
+- 🧠 **Research Obsessed**: Digging deeper into every library and API until I know how it breathes.
+- 🏎️ **Performance First**: If it's not fast, it's broken.
+- 🎨 **Aesthetic Logic**: Code should be as beautiful to read as the UI is to use.
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sayan-bhattacharya-b78529318">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/sayan_antogen01">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_sayan.bhattacharya_">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/1BieYMewG6/">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SayAn1-dls/count.svg" alt="Visitor Count" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20logic%20made%20aesthetic.&author=Jarvis" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/SayAn1-dls/count.svg" alt="Visitor Count" />
 </p>
