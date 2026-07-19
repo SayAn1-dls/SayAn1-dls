@@ -19,22 +19,23 @@
 
 ---
 
-## ⚡ Quick Bio
+## ⚡ Technical DNA
 
 <div align="center">
 
 ```javascript
 const sayan = {
   persona: "The Deep Researcher",
-  mission: "Transforming logic into digital masterpieces",
-  status: "Engineering at a master-level with technical precision",
-  vibe: "Research-driven, Skill-first, Zero average work."
+  motto: "Why settle for 'working' when it can be 'perfect'?",
+  stack: ["TypeScript", "Python", "React", "SQL"],
+  mission: "Engineering master-level digital experiences",
+  vibe: "Research-driven, Skill-first, Zero bullshit."
 };
 ```
 
 </div>
 
-> **"Code is like humor. When you have to explain it, it’s bad."** — *Cory House*
+> **" Talk is cheap. Show me the code. "** — *Linus Torvalds*
 > 
 > I don’t just write code; I architect systems. My approach is rooted in **technical depth** and **creative precision**. I identify gaps and engineer the bridge.
 
@@ -43,7 +44,7 @@ const sayan = {
 ## 🚀 Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,py,nodejs,tailwind,nextjs,supabase,prisma,git,vercel,aws,docker,mongodb,postgres,figma,postman,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,ts,py,nodejs,tailwind,nextjs,supabase,prisma,git,vercel,aws,docker,mongodb,postgres,figma,postman,linux,github&perline=8" />
 </p>
 
 ---
@@ -52,7 +53,7 @@ const sayan = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayAn1-dls&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1" alt="Sayan's Stats" />
-  <img src="https://streak-stats.demolab.com?user=SayAn1-dls&theme=radical&hide_border=true&count_private=true&cache_seconds=1" alt="Sayan's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayAn1-dls&theme=radical&hide_border=true&count_private=true&cache_seconds=1" alt="Sayan's Streak" />
 </p>
 
 <p align="center">
@@ -64,12 +65,12 @@ const sayan = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayAn1-dls&theme=radical&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayAn1-dls&theme=react-dark&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 💎 Contribution Status
+## 💎 Social & Contribution Status
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/SayAn1-dls?style=for-the-badge&logo=github&color=F7DF1E&logoColor=black" />
@@ -80,7 +81,7 @@ const sayan = {
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Logic+is+the+foundation,+Creativity+is+the+masterpiece.&author=Jarvis" />
+  <img src="https://quotes-github-readme.vercel.app/api?username=SayAn1-dls&theme=radical&quote=Logic+is+the+foundation,+Creativity+is+the+masterpiece.&author=Jarvis" />
 </p>
 
 <p align="center">
