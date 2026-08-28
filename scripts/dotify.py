@@ -33,7 +33,7 @@ def square_crop(img, fx, fy):
     return img.crop((round(left), round(top), round(left) + side, round(top) + side))
 
 
-def load_grid(path, cols, contrast, gamma, cell_aspect, square=False,
+def load_grid(path, cols, contrast, brightness, gamma, cell_aspect, square=False,
               focus=(0.5, 0.5), equalize=False, detail=0.0):
     img = ImageOps.exif_transpose(Image.open(path))
     mask = None
@@ -59,6 +59,9 @@ def load_grid(path, cols, contrast, gamma, cell_aspect, square=False,
     if contrast != 1.0:
         gray = ImageEnhance.Contrast(gray).enhance(contrast)
         img = ImageEnhance.Contrast(img).enhance(contrast)
+    if brightness != 1.0:
+        gray = ImageEnhance.Brightness(gray).enhance(brightness)
+        img = ImageEnhance.Brightness(img).enhance(brightness)
     w, h = img.size
     rows = max(1, round(cols * (h / w) * cell_aspect))
     small_g = gray.resize((cols, rows), Image.Resampling.LANCZOS)
@@ -93,7 +96,7 @@ def circle_falloff(x, y, cols, rows, feather=0.06):
 def svg_header(w, h, rows, opts):
     css = []
     if opts.animate:
-        css.append("@keyframes dp{0%,100%{opacity:.45}50%{opacity:1}}")
+        css.append("@keyframes dp{0%,100%{opacity:.6}50%{opacity:1}}")
         css.append(f".d{{animation:dp {opts.duration}s ease-in-out infinite}}")
         css += [f".l{i}{{animation-delay:{i / opts.lanes * opts.duration:.2f}s}}" for i in range(opts.lanes)]
     if opts.reveal:
@@ -122,7 +125,7 @@ def build_dots(cols, rows, lum, rgb, theme, opts):
             if opts.invert: v = 1 - v
             if opts.circle: v *= circle_falloff(x, y, cols, rows)
             if v < opts.floor: continue
-            r = max_r * (v ** 0.85)
+            r = max_r * (v ** 0.75)
             if r < 0.18: continue
             cx = x * cell + cell / 2
             cy = y * cell + cell / 2
@@ -135,7 +138,7 @@ def build_dots(cols, rows, lum, rgb, theme, opts):
             row.append(f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="{r:.2f}" fill="{fill}"{cls}/>')
         if not row: continue
         if opts.reveal:
-            out.append(f'<g class="rw r{y}">{"".join(row)}</g>')
+            out.append(f'<g class="rw r{y}">{""  .join(row)}</g>')
         else:
             out += row
     return "".join(out), cols * cell, rows * cell
@@ -149,7 +152,8 @@ def main(argv=None):
     p.add_argument("--cols", type=int, default=88)
     p.add_argument("--cell", type=float, default=10.0)
     p.add_argument("--dot-scale", type=float, default=0.92)
-    p.add_argument("--gamma", type=float, default=1.0)
+    p.add_argument("--gamma", type=float, default=0.65)
+    p.add_argument("--brightness", type=float, default=1.35)
     p.add_argument("--contrast", type=float, default=1.25)
     p.add_argument("--equalize", action="store_true")
     p.add_argument("--detail", type=float, default=0.0)
@@ -178,7 +182,7 @@ def main(argv=None):
     except ValueError:
         sys.exit(f"bad --focus: {args.focus}")
     args.out.parent.mkdir(parents=True, exist_ok=True)
-    cols, rows, lum, rgb = load_grid(args.image, args.cols, args.contrast, args.gamma,
+    cols, rows, lum, rgb = load_grid(args.image, args.cols, args.contrast, args.brightness, args.gamma,
                                      args.cell_aspect, args.square, (fx, fy), args.equalize, args.detail)
     builder = build_dots
     themes = ("dark",) if args.color else ("dark", "light")
