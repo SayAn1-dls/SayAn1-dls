@@ -1,0 +1,32 @@
+name: Refresh Radar
+
+on:
+  schedule:
+    - cron: "0 3 * * 0"
+  workflow_dispatch:
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests -q
+      - name: Rebuild language radar
+        run: |
+          python scripts/radar.py \
+            --github SayAn1-dls \
+            -o assets/radar-langs \
+            --exclude "html,css,scss,dockerfile,makefile,shell,batchfile" \
+            --limit 8 --curve 0.5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Rebuild skill radar
+        run: python scripts/radar.py --data assets/skills.json -o assets/radar
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh radar charts"

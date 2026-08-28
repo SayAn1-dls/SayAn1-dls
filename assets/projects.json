@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "repo": "sentinel-x",
+      "description": "AI-Powered Transaction Forensics for Institutional Finance — biometric auth, real-time anomaly detection, admin portal.",
+      "language": "Python"
+    },
+    {
+      "repo": "Travelo",
+      "description": "Full-stack travel planning web application with dynamic itinerary builder.",
+      "language": "JavaScript"
+    },
+    {
+      "repo": "Vyapar",
+      "description": "ONDC-based commerce intelligence platform with ML demand forecasting and dynamic pricing.",
+      "language": "TypeScript"
+    }
+  ]
+}
