@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/178633206?v=4" width="150" style="border-radius: 50%;" alt="Sayan Bhattacharya">
+<img src="https://avatars.githubusercontent.com/u/178633206?v=4" width="150" alt="Sayan Bhattacharya" style="border-radius:50%">
 
-<br>
+<br><br>
 
 <a href="https://github.com/SayAn1-dls">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Sayan+Bhattacharya;Frontend+Dev+%7C+ML+Engineer;Open-Source+Builder;01110011+01100001+01111001+01100001+01101110" alt="typing banner">
@@ -13,6 +13,8 @@
 <a href="https://linkedin.com/in/sayan-bhattacharya-b78529318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:sayanbhatt2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://sentinel-x-sayan1-dls-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=SayAn1-dls&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -28,10 +30,11 @@ $ cat about.txt
 
 Hi, I'm **Sayan Bhattacharya**. I build things that sit somewhere between machine learning and the web — forensic AI systems, commerce intelligence layers, and travel platforms that actually work.
 
-- Currently building **[Sentinel-X](https://github.com/SayAn1-dls/sentinel-x)** and **[Vyapar](https://github.com/SayAn1-dls/Vyapar)**
-- Live project: **[sentinel-x-sayan1-dls-projects.vercel.app](https://sentinel-x-sayan1-dls-projects.vercel.app)**
-- Learning **Deep Learning, Advanced ML & Embedded Systems**
-- Fun fact: **I started coding to build things I wished existed — and haven't stopped since.**
+- 🔨 Currently building **[Sentinel-X](https://github.com/SayAn1-dls/sentinel-x)** and **[Vyapar](https://github.com/SayAn1-dls/Vyapar)**
+- 🌐 Live project: **[sentinel-x-sayan1-dls-projects.vercel.app](https://sentinel-x-sayan1-dls-projects.vercel.app)**
+- 📚 Learning: **Deep Learning · Advanced ML · Embedded Systems**
+- 📍 New Delhi, India
+- ⚡ Fun fact: **I started coding to build things I wished existed — and haven't stopped since.**
 
 <br>
 
@@ -47,11 +50,11 @@ Hi, I'm **Sayan Bhattacharya**. I build things that sit somewhere between machin
 
 <div align="center">
 
-## `~/` contribution calendar
+## `~/` contribution activity
 
-<img src="https://raw.githubusercontent.com/SayAn1-dls/SayAn1-dls/output/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SayAn1-dls&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true&area_color=39d35320)](https://github.com/SayAn1-dls)
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayAn1-dls/SayAn1-dls/output/snake-dark.svg">
@@ -67,15 +70,15 @@ Hi, I'm **Sayan Bhattacharya**. I build things that sit somewhere between machin
 
 ## `~/` the numbers
 
-<img src="https://github-readme-stats.vercel.app/api?username=SayAn1-dls&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=ffffff&ring_color=39d353" width="480" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=SayAn1-dls&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=ffffff&ring_color=39d353&count_private=true" width="480" alt="GitHub statistics">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayAn1-dls&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=ffffff" height="165" alt="most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayAn1-dls&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=ffffff&langs_count=8" height="165" alt="most used languages">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SayAn1-dls&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" width="480" alt="streak stats">
+<img src="https://streak-stats.demolab.com/?user=SayAn1-dls&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353" width="480" alt="streak stats">
 
 </div>
 
@@ -104,10 +107,10 @@ Hi, I'm **Sayan Bhattacharya**. I build things that sit somewhere between machin
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SayAn1-dls&repo=Vyapar&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=ffffff" alt="Vyapar">
   </a>
 </td>
-<td width="50%" align="center">
-  <a href="https://github.com/SayAn1-dls">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SayAn1-dls&repo=SayAn1-dls&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=ffffff" alt="profile">
-  </a>
+<td width="50%" align="center" valign="middle">
+<br>
+<b>📍 New Delhi, India</b><br><br>
+<img src="https://img.shields.io/badge/Open%20to%20Work-39d353?style=for-the-badge&logo=briefcase&logoColor=black" alt="open to work">
 </td>
 </tr>
 </table>
@@ -128,6 +131,6 @@ Hi, I'm **Sayan Bhattacharya**. I build things that sit somewhere between machin
 
 <div align="center">
 
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+<sub>`01110011 01100001 01111001 01100001 01101110 00100000 01100010 01101000 01100001 01110100 01110100 01100001 01100011 01101000 01100001 01110010 01111001 01100001`</sub>
 
 </div>
