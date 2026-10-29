@@ -173,12 +173,11 @@ Hi, I'm **Sayan Bhattacharya**. I build things that sit somewhere between machin
 
 <sub>
 
-| project | live | stack |
+| Project | Live Demo | Tech Stack |
 |---|---|---|
-| **[sentinel-x](https://github.com/SayAn1-dls/sentinel-x)** | [sentinel-x-sayan1-dls-projects.vercel.app](https://sentinel-x-sayan1-dls-projects.vercel.app) | `Python` `React` `MongoDB` `ML` |
-| **[Travelo](https://github.com/SayAn1-dls/Travelo)** | — | `JavaScript` `Node.js` |
+| **[Sentinel-X](https://github.com/SayAn1-dls/sentinel-x)** | [Live Demo](https://sentinel-x-sayan1-dls-projects.vercel.app/) | `Python` `React` `MongoDB` `ML` |
+| **[Travelo](https://github.com/SayAn1-dls/travelo_main.git)** | [Live Demo](https://travelo-app-bu4n.onrender.com/) | `JavaScript` `Node.js` |
 | **[Vyapar](https://github.com/SayAn1-dls/Vyapar)** | — | `Next.js` `FastAPI` `ML` |
-
 </sub>
 
 </div>
